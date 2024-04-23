@@ -1,0 +1,14 @@
+D:\Testes de Aprendizado\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Testes de Aprendizado\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Testes de Aprendizado\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Testes de Aprendizado\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Testes de Aprendizado\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Testes de Aprendizado\Calculator\obj\Debug\net8.0\ref\Calculator.dll
